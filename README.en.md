@@ -8,6 +8,10 @@
 
 An unofficial, non-commercial Codex v2 custom desktop pet inspired by CS2 player donk. Its default idle is the iconic shush pose, with signature hands-in-pockets, thumbs-up, and listening poses.
 
+## Hope!!
+
+Here’s hoping donk wins a Major championship in the second half of 2026 and leaves everyone in awe.
+
 ## Quick install
 
 The pet itself needs only the two files in this repository's root: pet.json and spritesheet.webp.
@@ -74,10 +78,6 @@ From the repository root, run:
 ~~~sh
 shasum -a 256 -c SHA256SUMS
 ~~~
-
-## Fan note
-
-Here’s hoping donk wins a Major championship in the second half of 2026 and leaves everyone in awe.
 
 ## License and disclaimer
 
